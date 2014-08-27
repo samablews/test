@@ -1,5 +1,1 @@
-hello world
-dev
-both
-again
-new
+cleared
